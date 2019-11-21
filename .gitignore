@@ -105,4 +105,4 @@ venv.bak/
 
 
 #log files
-/catsdogs-log
+./catsdogs-log
